@@ -1,0 +1,7 @@
+Requirements: ruby curl tar
+
+To Start : ruby fetch_freebsd_documentation -h
+
+source package bundles up source
+
+documentation package bundles up documentation
